@@ -1,0 +1,25 @@
+body {
+  background-color: #464646;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  background-color: orange;
+  font-size: 32px;
+  margin-top: 10px;
+  width: 350px;
+  padding: 25px;
+  border-radius: 10px;
+  color: white;
+}
